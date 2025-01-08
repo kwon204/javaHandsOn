@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kr.codesquad.StringQuizTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-01-08T02:58:18" hostname="adminui-MacBookPro.local" time="0.007">
+  <properties/>
+  <testcase name="같은 문자열의 해시코드 비교" classname="kr.codesquad.StringQuizTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

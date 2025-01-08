@@ -58,12 +58,12 @@ class ListQuizTest {
         LinkedList<String> values = new LinkedList<>();
         values.add("first");
         values.add("second");
-        assertTrue(); // TODO 7 세 번째 값을 추가하라.
-        assertEquals(); // TODO 8 list의 크기를 구하라.
-        assertEquals(); // TODO 9 첫 번째 값을 찾아라.
-        assertTrue(); // TODO 10 "first" 값이 포함되어 있는지를 확인
-        assertEquals(); // TODO 11 첫 번째 값을 삭제해라.
-        assertEquals(); // TODO 12 11에서 삭제한 값이 삭제 됐는지 확인한다.
+//        assertTrue(); // TODO 7 세 번째 값을 추가하라.
+//        assertEquals(); // TODO 8 list의 크기를 구하라.
+//        assertEquals(); // TODO 9 첫 번째 값을 찾아라.
+//        assertTrue(); // TODO 10 "first" 값이 포함되어 있는지를 확인
+//        assertEquals(); // TODO 11 첫 번째 값을 삭제해라.
+//        assertEquals(); // TODO 12 11에서 삭제한 값이 삭제 됐는지 확인한다.
 
         // TODO 13 values에 담긴 모든 값을 출력한다.
     }

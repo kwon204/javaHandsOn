@@ -13,7 +13,7 @@ class HashSetQuizTest {
     @DisplayName("set의 크기 확인")
     public void testSetSize() {
         //TODO
-        assertEquals(6,);
+//        assertEquals(6,);
 
     }
 
@@ -21,7 +21,7 @@ class HashSetQuizTest {
     @DisplayName("set에 grape 추가 ")
     public void testPlusNewFruit() {
         //TODO
-        assertTrue();
+//        assertTrue();
     }
 
     @Test
@@ -45,6 +45,6 @@ class HashSetQuizTest {
         // 출력결과 예시:
         // apple
         // banana
-zx        // ...
+       // ...
     }
 }
